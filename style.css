@@ -1,0 +1,16 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #111;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 30px;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #333;
+        }
